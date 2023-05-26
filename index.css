@@ -1,0 +1,32 @@
+.background{
+    background-color: rgb(242, 208, 208);
+    height: 100vh;
+    padding: 1px;
+   
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 300px;
+    
+}
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.col {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    cursor: pointer;
+    
+}
+
+.row {
+    display: flex;
+}
